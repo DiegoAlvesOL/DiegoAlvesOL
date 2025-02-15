@@ -1,7 +1,9 @@
 # Hello! My name is Diego 🙋🏻‍♂️
 
 ```
-👋 Hi! I'm Diego Alves de Oliveira, a professional with over 15 years of experience in payments, cards, and banking technology. Currently transitioning into backend development, focusing on Kotlin.
+👋 Hi! I'm Diego Alves de Oliveira, a professional with over 15 years of experience in payments, cards, and banking technology.
+
+Currently transitioning into backend development, focusing on Kotlin.
 
 📚 Computer Science student at Dorset College, Dublin.
 💻 Interested in backend development, banking systems, and software architecture.
