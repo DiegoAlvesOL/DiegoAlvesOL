@@ -25,9 +25,9 @@ Let’s connect! 😃
 <div style="dicplay: inline_block">
     <img align="center" alt="Kotlin" height="30" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">
     <img align="center" alt="Android" height="30" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
+    <img align = "center" alt="mysql" height="30" src= "https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
     <img align="center" alt="firebase" height="30" src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34">
     <img align="center" alt="kafka" height="30" src="https://img.shields.io/badge/Apache%20Kafka-231F20?logo=apachekafka&logoColor=fff&style=for-the-badge">
-    <img align = "center" alt="mysql" height="30" src= "https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
     <img align = "center" alt="springboot" height="30" src= "https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
     <img align="center" alt="mongoDb" height="30" src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=for-the-badge">
 </div><br/>
