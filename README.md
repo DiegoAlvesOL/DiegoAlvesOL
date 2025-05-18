@@ -3,7 +3,8 @@
 ```
 👋 Hi! I'm Diego Alves de Oliveira, a professional with over 15 years of experience in payments, cards, and banking technology.
 
-Currently transitioning into backend development, focusing on Kotlin.
+I'm currently transitioning into backend development. My main focus now is on Python, as I build a strong foundation in programming.
+I'm also looking forward to exploring technologies like Kotlin, Spring Boot, and Kafka, especially in the context of financial systems and backend architecture.
 
 📚 Computer Science student at Dorset College, Dublin.
 💻 Interested in backend development, banking systems, and software architecture.
