@@ -12,7 +12,6 @@ Today, I'm building solid technical foundations while applying that domain exper
 to real projects. I'm particularly interested in **backend systems, APIs, and
 distributed architectures**.
 
-
 ---
 
 ### 🔨 What I'm building
