@@ -16,16 +16,17 @@ distributed architectures**.
 
 ### 🔨 What I'm building
 
-**DCODE Solutions, Logistics Management App** *(in progress)*
-A C# / .NET application for delivery companies to track driver deliveries,
-collections, failed attempts, and vehicle walkaround checks.
-Planned for cloud deployment on Railway.
+**FleetOps Manager by DCODE Solutions** *(live in production since March 2026)*
+A fleet management application for delivery companies to track driver deliveries,
+collections, failed attempts, and vehicle walkaround checks, with WhatsApp messaging
+integrated through Meta's official API.
+Built with C#, .NET, MySQL and Docker, deployed on Railway.
 
 ---
 
 ### 🧑‍💻 Technologies I'm currently studying
 
-<div style="display: flex; gap: 10px; flex-wrap: wrap;"><br/>
+<p>
   <img alt="CSharp" height="30" src="https://img.shields.io/badge/C%23-239120.svg?style=for-the-badge&logo=csharp&logoColor=white"/>
   <img alt="dotnet" height="30" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
   <img alt="JavaScript" height="30" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
@@ -34,7 +35,7 @@ Planned for cloud deployment on Railway.
   <img alt="MySQL" height="30" src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img alt="Kotlin" height="30" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/>
   <img alt="Docker" height="30" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-</div><br/>
+</p>
 
 ---
 
@@ -42,26 +43,26 @@ Planned for cloud deployment on Railway.
 
 My goal is to work with **backend systems and distributed architectures**,
 areas I have real domain knowledge in from my payments career.
-Next on my learning path:
+Next on my learning path, all within the .NET ecosystem:
 
-<div style="display: flex; gap: 10px; flex-wrap: wrap;"><br/>
-  <img alt="SpringBoot" height="30" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>
+<p>
+  <img alt="ASP.NET Core" height="30" src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
   <img alt="Kafka" height="30" src="https://img.shields.io/badge/Apache%20Kafka-231F20?logo=apachekafka&logoColor=fff&style=for-the-badge"/>
   <img alt="MongoDB" height="30" src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=for-the-badge"/>
-</div><br/>
+</p>
 
 ---
 
 ### 🛠️ Tools & technologies I've already worked with
 
-<div style="display: flex; gap: 10px; flex-wrap: wrap;"><br/>
+<p>
   <img alt="Python" height="30" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
   <img alt="ElasticSearch" height="30" src="https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch"/>
   <img alt="Kibana" height="30" src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=Kibana&logoColor=white"/>
   <img alt="Postman" height="30" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
   <img alt="Jira" height="30" src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white"/>
   <img alt="Git" height="30" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
-</div><br/>
+</p>
 
 ---
 
